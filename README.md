@@ -1,0 +1,2 @@
+# InventoryManagementSystemInPython
+Use Django
